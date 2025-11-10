@@ -182,12 +182,7 @@ artifacts/
 checkpoints/
 
 # Generated visualizations
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-visualizations/
+
 
 # Backup files
 *.bak
